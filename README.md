@@ -10,10 +10,10 @@ La intención del presente trabajo es proponer, crear y analizar un sistema de t
 
 En este proyecto se emplean técnicas avanzadas de optimización para el entrenamiento del modelo, el cual sirve para la construcción de cuatro criterios básicos al momento de hacer trading. Tales como:
 
-**1. Uso de datos**
-**2. Generación de señales**
-**3. Dimensionamiento de la posiciones**
-**4. Toma de pérdidas y ganancias**
+1. Uso de datos
+2. Generación de señales
+3. Dimensionamiento de la posiciones
+4. Toma de pérdidas y ganancias
 
 ### Para facilitar la lectura, comentarios y conclusiones descargar y/o consultar el archivo de notebook.py/notebook.html 
 
